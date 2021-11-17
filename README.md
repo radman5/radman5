@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @radman5
-- 👀 I’m interested in 
- - Gamedev
- - .net
- - aws
-- 🌱 I’m currently learning 
- - .net 6
- - Gamedev
+- 👀 I’m interested in Gamedev, .net, aws
+- 🌱 I’m currently learning .net 6, Gamedev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
